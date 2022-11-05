@@ -1,0 +1,3 @@
+../Core/Src/led_display.c:10:6:display7SEG	16	static
+../Core/Src/led_display.c:113:6:update7SEG	16	static
+../Core/Src/led_display.c:118:6:ledBlinky	8	static
